@@ -38,10 +38,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/felipelima177/felipelima177/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Mídias Sociais</h2>
 
 ###
