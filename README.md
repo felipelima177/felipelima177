@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Desenvolvedor Full Stack em formação<br>- Cursando Desenvolvimento de Sistemas no SENAI (3° período)</p>
+<p align="left">- Desenvolvedor Full Stack em formação<br>- Cursando Técnico em Desenvolvimento de Sistemas no SENAI (3° período)</p>
 
 ###
 
