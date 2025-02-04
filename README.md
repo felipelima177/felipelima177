@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Desenvolvedor Full Stack<br>- Formado em Técnico em Desenvolvimento de Sistemas no SENAI 2023 - 2024</p>
+<p align="left">- Desenvolvedor Full Stack<br>- Formado em Técnico em Desenvolvimento de Sistemas no SENAI | 2023 - 2024</p>
 
 ###
 
